@@ -1,0 +1,17 @@
+[
+{
+    "hoTen": "Nguyen Van A",
+    "dtb": 7.5,
+    "gioiTinh": true
+},
+{
+    "hoTen": "Nguyen Van B",
+    "dtb": 10.1,
+    "gioiTinh": false
+},
+{
+    "hoTen": "Nguyen Van c",
+    "dtb": 12.0,
+    "gioiTinh": true
+}
+]

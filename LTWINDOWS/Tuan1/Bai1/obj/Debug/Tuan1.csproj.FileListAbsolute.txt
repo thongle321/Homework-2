@@ -1,0 +1,8 @@
+D:\Tuan1\bin\Debug\Tuan1.exe.config
+D:\Tuan1\bin\Debug\Tuan1.exe
+D:\Tuan1\bin\Debug\Tuan1.pdb
+D:\Tuan1\obj\Debug\Tuan1.csproj.AssemblyReference.cache
+D:\Tuan1\obj\Debug\Tuan1.csproj.SuggestedBindingRedirects.cache
+D:\Tuan1\obj\Debug\Tuan1.csproj.CoreCompileInputs.cache
+D:\Tuan1\obj\Debug\Tuan1.exe
+D:\Tuan1\obj\Debug\Tuan1.pdb

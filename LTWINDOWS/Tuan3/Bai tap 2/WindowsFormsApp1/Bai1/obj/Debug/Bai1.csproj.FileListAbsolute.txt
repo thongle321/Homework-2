@@ -1,0 +1,11 @@
+D:\WindowsFormsApp1\Bai1\bin\Debug\Bai1.exe.config
+D:\WindowsFormsApp1\Bai1\bin\Debug\Bai1.exe
+D:\WindowsFormsApp1\Bai1\bin\Debug\Bai1.pdb
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.frmNhapHoTen.resources
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.exe
+D:\WindowsFormsApp1\Bai1\obj\Debug\Bai1.pdb

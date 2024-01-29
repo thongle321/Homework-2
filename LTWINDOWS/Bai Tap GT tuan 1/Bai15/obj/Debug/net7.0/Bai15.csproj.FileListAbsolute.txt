@@ -1,0 +1,14 @@
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\bin\Debug\net7.0\Bai15.exe
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\bin\Debug\net7.0\Bai15.deps.json
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\bin\Debug\net7.0\Bai15.runtimeconfig.json
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\bin\Debug\net7.0\Bai15.dll
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\bin\Debug\net7.0\Bai15.pdb
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.AssemblyInfoInputs.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.AssemblyInfo.cs
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.csproj.CoreCompileInputs.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.dll
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\refint\Bai15.dll
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.pdb
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\Bai15.genruntimeconfig.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Bai Tap GT tuan 1\Bai15\obj\Debug\net7.0\ref\Bai15.dll
