@@ -1,0 +1,11 @@
+D:\frmDemo\bin\Debug\frmDemo.exe.config
+D:\frmDemo\bin\Debug\frmDemo.exe
+D:\frmDemo\bin\Debug\frmDemo.pdb
+D:\frmDemo\obj\Debug\frmDemo.csproj.AssemblyReference.cache
+D:\frmDemo\obj\Debug\frmDemo.csproj.SuggestedBindingRedirects.cache
+D:\frmDemo\obj\Debug\frmDemo.frmNhanSu.resources
+D:\frmDemo\obj\Debug\frmDemo.Properties.Resources.resources
+D:\frmDemo\obj\Debug\frmDemo.csproj.GenerateResource.cache
+D:\frmDemo\obj\Debug\frmDemo.csproj.CoreCompileInputs.cache
+D:\frmDemo\obj\Debug\frmDemo.exe
+D:\frmDemo\obj\Debug\frmDemo.pdb

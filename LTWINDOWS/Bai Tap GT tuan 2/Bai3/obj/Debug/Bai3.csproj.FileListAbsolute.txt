@@ -1,0 +1,8 @@
+D:\Bai3\bin\Debug\Bai3.exe.config
+D:\Bai3\bin\Debug\Bai3.exe
+D:\Bai3\bin\Debug\Bai3.pdb
+D:\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\Bai3\obj\Debug\Bai3.csproj.SuggestedBindingRedirects.cache
+D:\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\Bai3\obj\Debug\Bai3.exe
+D:\Bai3\obj\Debug\Bai3.pdb

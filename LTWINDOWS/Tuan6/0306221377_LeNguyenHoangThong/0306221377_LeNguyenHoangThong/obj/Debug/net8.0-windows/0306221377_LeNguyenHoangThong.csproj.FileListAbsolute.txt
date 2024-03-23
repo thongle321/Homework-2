@@ -1,0 +1,17 @@
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\bin\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.exe
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\bin\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.deps.json
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\bin\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.runtimeconfig.json
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\bin\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.dll
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\bin\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.pdb
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\_0306221377_LeNguyenHoangThong.Form1.resources
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.csproj.GenerateResource.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.AssemblyInfoInputs.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.AssemblyInfo.cs
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.csproj.CoreCompileInputs.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.sourcelink.json
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.dll
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\refint\0306221377_LeNguyenHoangThong.dll
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.pdb
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\0306221377_LeNguyenHoangThong.genruntimeconfig.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan6\0306221377_LeNguyenHoangThong\0306221377_LeNguyenHoangThong\obj\Debug\net8.0-windows\ref\0306221377_LeNguyenHoangThong.dll
