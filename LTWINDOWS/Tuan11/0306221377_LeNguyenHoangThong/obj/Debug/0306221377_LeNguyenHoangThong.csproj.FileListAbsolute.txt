@@ -1,0 +1,12 @@
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\0306221377_LeNguyenHoangThong.csproj.AssemblyReference.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.Properties.Resources.resources
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\0306221377_LeNguyenHoangThong.csproj.GenerateResource.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\0306221377_LeNguyenHoangThong.csproj.CoreCompileInputs.cache
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\bin\Debug\0306221377_LeNguyenHoangThong.exe.config
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\bin\Debug\0306221377_LeNguyenHoangThong.exe
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\bin\Debug\0306221377_LeNguyenHoangThong.pdb
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\0306221377_LeNguyenHoangThong.exe
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\0306221377_LeNguyenHoangThong.pdb
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmThemNhaSanXuat.resources
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmThemSanPham.resources
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmThemSanPham_NangCao.resources
