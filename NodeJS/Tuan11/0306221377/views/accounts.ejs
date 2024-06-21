@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Enter your description here" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Danh sách tài khoản</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Danh sách tài khoản</h1>
+        <a href="/accounts/add" class="btn btn-success">
+            <i class="fa fa-plus" aria-hidden="true"></i> Thêm
+        </a>
+        <table class="table table-light table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Ảnh đại diện</th>
+                    <th>Tên đăng nhập</th>
+                    <th>Email</th>
+                    <th>SĐT</th>
+                    <th>Họ tên</th>
+                    <th>Chức năng</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% accounts.forEach(item => { %>
+
+                <% }) %>
+
+
+                <% accounts.forEach(item=> { %>
+                <tr>
+                    <td>
+                        <a href="/accounts/detail/<%= item.Id %>"><img src="images/avatar/<%= item.Avatar %>" style="width: 100px;"></a>
+                    </td>
+                    <td>
+                        <%= item.Username %>
+                    </td>
+                    <td>
+                        <%= item.Email %>
+                    </td>
+                    <td>
+                        <%= item.Phone %>
+                    </td>
+                    <td>
+                        <%= item.FullName %>
+                    </td>
+                    <td>
+                        <a href="/accounts/detail/<%= item.Id %>" class="btn btn-info">
+                            <i class="fa fa-user" aria-hidden="true"></i>
+                        </a>
+                        <a href="/accounts/edit/<%= item.Id %>" class="btn btn-danger">
+                            <i class="fa fa-edit" aria-hidden="true"></i>
+                        </a>
+                        <form action="/accounts/delete/<%= item.Id %>" class = "d-inline" method="post" onsubmit="return confirm('Bạn có chắc muốn xóa ?')">
+                            <button class="btn btn-danger">
+                            <i class="fa fa-trash" aria-hidden="true"></i>
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>

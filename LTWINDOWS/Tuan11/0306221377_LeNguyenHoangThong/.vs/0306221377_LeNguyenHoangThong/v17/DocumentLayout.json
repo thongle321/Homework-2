@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|d:\\coding\\bai tap - hk 2\\ltwindows\\tuan11\\0306221377_lenguyenhoangthong\\frmthemsanpham_nangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|solutionrelative:frmthemsanpham_nangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|d:\\coding\\bai tap - hk 2\\ltwindows\\tuan11\\0306221377_lenguyenhoangthong\\frmcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|solutionrelative:frmcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|d:\\coding\\bai tap - hk 2\\ltwindows\\tuan11\\0306221377_lenguyenhoangthong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|d:\\coding\\bai tap - hk 2\\ltwindows\\tuan11\\0306221377_lenguyenhoangthong\\frmcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7589762B-EFE4-49F9-A9A1-84A03297ACC2}|0306221377_LeNguyenHoangThong.csproj|solutionrelative:frmcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "frmCapNhatSanPham.cs",
+              "DocumentMoniker": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\frmCapNhatSanPham.cs",
+              "RelativeDocumentMoniker": "frmCapNhatSanPham.cs",
+              "ToolTip": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\frmCapNhatSanPham.cs",
+              "RelativeToolTip": "frmCapNhatSanPham.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAJ8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T03:49:44.625Z",
+              "WhenOpened": "2024-04-11T07:39:47.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmThemSanPham_NangCao.cs [Design]",
-              "DocumentMoniker": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\frmThemSanPham_NangCao.cs",
-              "RelativeDocumentMoniker": "frmThemSanPham_NangCao.cs",
-              "ToolTip": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\frmThemSanPham_NangCao.cs [Design]",
-              "RelativeToolTip": "frmThemSanPham_NangCao.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmCapNhatSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\frmCapNhatSanPham.cs",
+              "RelativeDocumentMoniker": "frmCapNhatSanPham.cs",
+              "ToolTip": "D:\\Coding\\Bai Tap - HK 2\\LTWINDOWS\\Tuan11\\0306221377_LeNguyenHoangThong\\frmCapNhatSanPham.cs [Design]",
+              "RelativeToolTip": "frmCapNhatSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T03:45:32.732Z",
+              "WhenOpened": "2024-04-11T07:39:45.103Z",
               "EditorCaption": " [Design]"
             }
           ]

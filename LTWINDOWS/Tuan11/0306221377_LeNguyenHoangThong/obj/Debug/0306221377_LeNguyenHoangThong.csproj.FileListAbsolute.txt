@@ -10,3 +10,5 @@ D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debu
 D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmThemNhaSanXuat.resources
 D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmThemSanPham.resources
 D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmThemSanPham_NangCao.resources
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmCapNhatNhaSanXuat.resources
+D:\Coding\Bai Tap - HK 2\LTWINDOWS\Tuan11\0306221377_LeNguyenHoangThong\obj\Debug\_0306221377_LeNguyenHoangThong.frmCapNhatSanPham.resources

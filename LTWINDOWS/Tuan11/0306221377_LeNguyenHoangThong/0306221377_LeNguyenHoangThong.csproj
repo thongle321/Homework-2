@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCapNhatNhaSanXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatNhaSanXuat.Designer.cs">
+      <DependentUpon>frmCapNhatNhaSanXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatSanPham.Designer.cs">
+      <DependentUpon>frmCapNhatSanPham.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmThemNhaSanXuat.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +78,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCapNhatNhaSanXuat.resx">
+      <DependentUpon>frmCapNhatNhaSanXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatSanPham.resx">
+      <DependentUpon>frmCapNhatSanPham.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmThemNhaSanXuat.resx">
       <DependentUpon>frmThemNhaSanXuat.cs</DependentUpon>
     </EmbeddedResource>

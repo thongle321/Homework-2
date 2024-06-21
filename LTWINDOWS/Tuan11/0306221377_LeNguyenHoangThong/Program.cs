@@ -16,7 +16,7 @@ namespace _0306221377_LeNguyenHoangThong
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmThemSanPham_NangCao());
+            Application.Run(new frmCapNhatSanPham());
         }
     }
 }
